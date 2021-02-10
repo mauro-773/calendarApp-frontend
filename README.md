@@ -2,7 +2,8 @@
 
 ### Environment Variables
 
--  REACT_APP_API_URL
+-  REACT_APP_API_URL=
+For the server URL
 
 ### Getting Started with Create React App
 
